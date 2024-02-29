@@ -28,6 +28,10 @@ else
 	echo "# - FW found, setting $FW"
 fi
 
+if pgrep -x "sve" > /dev/null; then
+    say_and_do sudo killall sve
+fi
+
 # echo "# download"
 # say_and_do git clone https://github.com/RP-Optical-Lab/fw.swir.release.git
 # say_and_do cd fw.swir.release
