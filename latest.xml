@@ -6,5 +6,6 @@
         <build>1</build>
     </version>
     <tag>swir_sdi</tag>
-    <path>/releases/download/v0.0.1/rp-swir-sdi-isp-v001a.tar.gz</path>
+    <path>/releases/download/v0.0.1</path>
+    <file>rp-swir-sdi-isp-v001a.tar.gz</file>
 </firmware>
