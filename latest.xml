@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<firmware>
+    <version>
+        <major>0</major>
+        <minor>0</minor>
+        <build>1</build>
+    </version>
+    <tag>swir_sdi</tag>
+    <path>https://myCoolApp.zip</path>
+</firmware>
