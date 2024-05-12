@@ -2,10 +2,10 @@
 <firmware>
     <version>
         <major>0</major>
-        <minor>0</minor>
-        <build>1</build>
+        <minor>1</minor>
+        <build>0</build>
     </version>
     <tag>swir_sdi</tag>
-    <path>/releases/download/v0.0.1</path>
-    <file>rp-swir-sdi-isp-v001a.tar.gz</file>
+    <path>/releases/download/v0.1.0</path>
+    <file>rp-swir-sdi-010.tar.gz</file>
 </firmware>

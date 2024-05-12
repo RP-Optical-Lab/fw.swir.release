@@ -11,7 +11,19 @@ chmod +x update.sh
 sudo ./update.sh rp-swir-sdi-isp-v001a
 ```
 
-##What's new in the latest version   
+# What's new in the latest version
+## Version rp-swir-v010
+### New:
+1. Added option to set baud rate to lens 422
+2. Added frame dimension control
+### Bugs fixed:
+1. Removed extra row in full rate mode
+2. Fixed timing issues 
+3. Channel 2 timing issue in PLL - one clock
+### Notes:
+1. Required software version 0.1.0 and higher 
+
+
 ## Version rp-swir-sdi-isp-v001a
 ### Bugs fixed:
 1. Fixed issue set baud rate to main 422
