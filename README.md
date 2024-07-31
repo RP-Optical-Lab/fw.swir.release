@@ -12,6 +12,16 @@ sudo ./update.sh rp-swir-sdi-isp-v001a
 ```
 
 # What's new in the latest version
+
+## Version rp-swir-sdi-100
+### New:
+1. Added BPC Accel
+2. Added NUC Accel
+3. Added ALPD Accel
+4. Added Histogram Accel
+### Notes:
+1. Required software version 1.0.0 and higher
+
 ## Version rp-swir-v010
 ### New:
 1. Added option to set baud rate to lens 422
