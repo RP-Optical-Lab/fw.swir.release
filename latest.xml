@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <firmware>
     <version>
-        <major>0</major>
-        <minor>1</minor>
+        <major>1</major>
+        <minor>0</minor>
         <build>0</build>
     </version>
     <tag>swir_sdi</tag>
-    <path>/releases/download/v0.1.0</path>
-    <file>rp-swir-sdi-010.tar.gz</file>
+    <path>/releases/download/v1.0.0</path>
+    <file>rp-swir-sdi-100.tar.gz</file>
 </firmware>
