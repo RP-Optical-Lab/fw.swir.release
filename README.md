@@ -8,7 +8,7 @@ Folder contains the firmware versions (fpga bin and linux dtbo files + json file
 
 ```
 chmod +x update.sh 
-sudo ./update.sh rp-swir-sdi-isp-v001a
+sudo ./update.sh rp-swir-sdi-100.tar.gz
 ```
 
 # What's new in the latest version
