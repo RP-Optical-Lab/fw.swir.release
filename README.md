@@ -8,10 +8,18 @@ Folder contains the firmware versions (fpga bin and linux dtbo files + json file
 
 ```
 chmod +x update.sh 
-sudo ./update.sh rp-swir-sdi-100.tar.gz
+sudo ./update.sh fw_swir_scd_sdi-1510.tar.gz
 ```
 
 # What's new in the latest version
+
+## Version 15.1.0
+### New:
+1. Added FIR Accel
+2. Added BPR base median filter
+### Notes:
+1. Required software version 15.1.0 and higher
+
 
 ## Version rp-swir-sdi-100
 ### New:
