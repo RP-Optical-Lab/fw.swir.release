@@ -13,6 +13,12 @@ sudo ./update.sh fw_swir_scd_sdi-1510.tar.gz
 
 # What's new in the latest version
 
+## Version 15.2.0
+### New:
+1. Fixed detector clock synchronization per channel 
+### Notes:
+1. Required software version 15.2.0 and higher
+
 ## Version 15.1.0
 ### New:
 1. Added FIR Accel
